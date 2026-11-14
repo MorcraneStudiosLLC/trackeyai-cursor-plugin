@@ -1,6 +1,6 @@
 # TrackeyAI for Cursor
 
-A Cursor plugin that connects Cursor to the TrackeyAI MCP service and provides guidance for evidence-backed governed execution.
+TrackeyAI is an AI execution governance platform. For each approved task, it provides a versioned execution contract that defines scope, exclusions, requirements, acceptance criteria, and required evidence. Through Cursor's MCP connection, agents can start or continue a governed run, submit evidence-backed check-ins, and follow TrackeyAI's PASS, FIX, or STOP decisions. Each run keeps an auditable record and a completion report.
 
 ## What it provides
 
