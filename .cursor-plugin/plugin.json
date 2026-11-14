@@ -1,0 +1,9 @@
+{
+  "name": "trackeyai",
+  "displayName": "TrackeyAI",
+  "version": "1.0.0",
+  "description": "Connect Cursor to TrackeyAI for explicitly authorized, evidence-backed governed execution.",
+  "author": {"name": "Morcrane Studios LLC"},
+  "repository": "https://github.com/MorcraneStudiosLLC/trackeyai-cursor-plugin",
+  "license": "MIT"
+}
