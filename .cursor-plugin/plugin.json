@@ -2,7 +2,7 @@
   "name": "trackeyai",
   "displayName": "TrackeyAI",
   "version": "1.0.0",
-  "description": "Connect Cursor to TrackeyAI for explicitly authorized, evidence-backed governed execution.",
+  "description": "TrackeyAI is an AI execution governance platform. It gives each approved task a versioned execution contract defining scope, exclusions, requirements, acceptance criteria, and evidence. Through Cursor's MCP connection, agents can start or continue a governed run, submit evidence-backed check-ins, and follow TrackeyAI's PASS, FIX, or STOP decisions. Each run preserves an auditable record and completion report.",
   "author": {"name": "Morcrane Studios LLC"},
   "repository": "https://github.com/MorcraneStudiosLLC/trackeyai-cursor-plugin"
 }
