@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "trackeyai": {
+      "url": "https://api.trackeyai.com/mcp"
+    }
+  }
+}
